@@ -72,7 +72,7 @@ Fiber optic links can be used for transmission of digital as well as analog sign
 
 ## MODEL GRAPH
 
-<img width="1290" height="674" alt="image" src="https://github.com/user-attachments/assets/76f5d47f-6e80-4c84-b13f-b9ffe1aca44d" />
+![WhatsApp Image 2025-11-20 at 18 13 18_def5b100](https://github.com/user-attachments/assets/97ac00cf-b06e-4850-9689-40c92329e167)
 
 ---
 
